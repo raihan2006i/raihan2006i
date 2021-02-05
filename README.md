@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**raihan2006i/raihan2006i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://gpvc.arturio.dev/raihan2006i" align="center">![Profile views](https://gpvc.arturio.dev/raihan2006i)</a>
 
-Here are some ideas to get you started:
+## :rocket: Who am I?
+- Senior Software Engineer
+- Full Stack Web Developer
+- Passionate Ruby / Rails Developer
+- Hobbyist open source craftsman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; Stats
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=raihan2006i&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+</p>
