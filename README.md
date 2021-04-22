@@ -4,7 +4,7 @@
 
 ## :rocket: Who am I?
 - Senior Software Engineer
-- Full Stack Web Developer
+- Full Stack Developer
 - Passionate Ruby / Rails Developer
 - Hobbyist open source craftsman
 
